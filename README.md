@@ -27,8 +27,9 @@ Each folder contains multiple Java programs with:
 
 ### Using Command Line
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git](https://github.com/Mayank-Automation/Assignments.git
+   bash
+   git clone https://github.com/Mayank-Automation/Assignments.git
+
 
 
 
